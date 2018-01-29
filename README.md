@@ -1,4 +1,4 @@
 # CancerBotNet
 
-Collected from 
+Collected from https://pastebin.com/raw/vYmycSC2
 
